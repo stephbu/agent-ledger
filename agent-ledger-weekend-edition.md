@@ -11,37 +11,10 @@ target 4,500–5,500 words, including headings and captions but excluding
 URLs. Do not pad the edition to hit the target. If the week is quiet,
 publish a shorter, useful issue and say so briefly.
 
-EDITORIAL SCOPE
-Cover meaningful advances in:
-- LLM models: capabilities, reasoning, multimodality, efficiency,
-  inference cost, context, and open-weight releases.
-- Agents: tool use, planning, memory, autonomous workflows,
-  coordination, and demonstrated task performance.
-- Agent harnesses: execution loops, sandboxes, context management,
-  orchestration, permissions, evaluation, tracing, and reliability.
-Also include relevant technical events and deadlines on the horizon.
-
-REPORTING AND SOURCES
+RESEARCH WINDOW
 Review the seven days ending on the edition date, using
-America/Los_Angeles time. Use original publication or release dates
-to determine when a development occurred.
-
-Discover candidates through a balanced mix of:
-- Hacker News.
-- Official research and engineering blogs, model cards,
-  documentation, release notes, and GitHub releases.
-- arXiv, Hugging Face Papers, and OpenReview.
-- Independent evaluations and reputable technical reporting.
-- Curated technical sources such as Simon Willison, Latent Space,
-  and The Batch.
-
-Use discussion and newsletters for discovery and context, not as proof.
-Verify important claims against original evidence where available.
-For every item, provide links to useful sources, prioritising primary
-evidence. Clearly label vendor-reported results, previews, and
-unreviewed research. Do not compare benchmark results gathered under
-incompatible conditions. Never invent quotations, dates, availability,
-or performance claims.
+America/Los_Angeles time. Apply the shared research standards in
+agent-ledger-sources.md alongside this edition prompt.
 
 SELECTION AND EDITORIAL JUDGMENT
 - Lead with the week’s most consequential development or trend.
